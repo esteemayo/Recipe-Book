@@ -1,0 +1,17 @@
+body {
+  margin-top: 10px;
+  background: #f9f9f9;
+}
+
+.delete-recipe {
+  position: relative;
+}
+
+.btn-delete {
+  position: absolute;
+  opacity: 0;
+  height: 13px;
+  text-align: center;
+  left: 12px;
+  top: 9px;
+}
