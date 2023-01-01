@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "compression": "^1.7.4",
-    "config": "^3.2.4",
+    "config": "^3.3.8",
     "consolidate": "^0.15.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
